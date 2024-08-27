@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Solicitar licencias","type":"item","tilePath":"","description":"","url":"AUTOHTML/Licencias.htm"},{"name":"Solicitar vacaciones","type":"item","tilePath":"","description":"","url":"AUTOHTML/Vacaciones.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

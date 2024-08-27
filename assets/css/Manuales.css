@@ -1,0 +1,99 @@
+/*Created with Adobe RoboHelp 2017.*/
+p.Texto_parrafo {
+	font-family: Calibri, sans-serif;
+	text-align: justify;
+}
+h1 {
+	font-weight: bold;
+	font-size: 22pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	page-break-after: avoid;
+	font-family: Calibri;
+}
+h2 {
+	font-weight: bold;
+	font-size: 16pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	page-break-after: avoid;
+	font-family: Calibri;
+}
+h3 {
+	font-weight: bold;
+	font-size: 13.5pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	page-break-after: avoid;
+	font-family: Calibri;
+}
+h4 {
+	font-weight: bold;
+	font-size: 12pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	page-break-after: avoid;
+	font-family: Calibri;
+}
+h5 {
+	font-weight: bold;
+	font-size: 9pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	page-break-after: avoid;
+	font-family: Calibri;
+}
+h6 {
+	font-weight: bold;
+	font-size: 7pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	page-break-after: avoid;
+	font-family: Calibri;
+}
+p {
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	font-family: Calibri;
+	text-align: justify;
+}
+img.Imagen {
+	margin-left: 10pt;
+	margin-right: 10pt;
+	margin-top: 10pt;
+	margin-bottom: 10pt;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+}
+p.Style1 {
+}
+img.Imagen_chica {
+	margin-right: 10pt;
+	margin-top: 10pt;
+	margin-bottom: 10pt;
+	margin-left: 100pt;
+}

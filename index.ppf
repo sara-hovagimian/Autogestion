@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Manual de Autogestion BAS Laboro" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="AUTOHTML\Bienvenido.htm">
+    
+    <topic>
+      AUTOHTML\Bienvenido.htm
+    </topic>
+    
+    <topic>
+      AUTOHTML\Ingreso_al_sistema.htm
+    </topic>
+    
+    <topic>
+      AUTOHTML\Cambio_de_clave.htm
+    </topic>
+    
+    <topic>
+      AUTOHTML\Menu_de_Consultas.htm
+    </topic>
+    
+    <topic>
+      AUTOHTML\Gestion_de_documentos.htm
+    </topic>
+    
+    <topic>
+      AUTOHTML\Licencias.htm
+    </topic>
+    
+    <topic>
+      AUTOHTML\Vacaciones.htm
+    </topic>
+    
+    <topic>
+      AUTOHTML\Autorizaciones.htm
+    </topic>
+    
+    <topic>
+      AUTOHTML\Personal_dependiente.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        es_ES
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Autorizaciones","type":"item","tilePath":"","description":"","url":"AUTOHTML/Autorizaciones.htm"},{"name":"Personal dependiente","type":"item","tilePath":"","description":"","url":"AUTOHTML/Personal_dependiente.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
