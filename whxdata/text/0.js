@@ -1,1 +1,1 @@
-rh._.exports({"0":[["Cambio de clave"]],"1":[["Claves,Cambio"]],"2":[[" ","Cambio de contraseña"]],"3":[[" ","En caso de querer cambiar la contraseña, se debe completar los datos \n de la siguiente figura."]],"id":"0"})
+rh._.exports({"0":[["Bienvenido"]],"1":[["Autogestión"]],"2":[[" ","Versión: 6"," ","Vigencia: 20/08/2024"]],"id":"0"})
